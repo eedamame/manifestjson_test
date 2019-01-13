@@ -1,0 +1,22 @@
+{
+  "short_name": "manifest.json sample",
+  "name": "manifest.json sample web app",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon@2x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon@3x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html?launcher=true"
+}
