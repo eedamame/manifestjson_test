@@ -1,6 +1,9 @@
 {
   "short_name": "manifest.json sample",
   "name": "manifest.json sample web app",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "start_url": "index.html?launcher=true",
   "icons": [
     {
       "src": "icon.png",
@@ -17,7 +20,5 @@
       "type": "image/png",
       "sizes": "192x192"
     }
-  ],
-  "start_url": "index.html?launcher=true",
-  "display": "fullscreen"
+  ]
 }
