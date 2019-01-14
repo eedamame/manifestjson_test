@@ -1,8 +1,8 @@
 {
-  "short_name": "manifest.json sample",
+  "short_name": "SMPL",
   "name": "manifest.json sample web app",
   "display": "fullscreen",
-  "background_color": "#fff",
+  "background_color": "#00ec75",
   "start_url": "index.html?launcher=true",
   "icons": [
     {
