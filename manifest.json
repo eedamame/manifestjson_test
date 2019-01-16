@@ -1,24 +1,24 @@
 {
-  "short_name": "SMPL 1735",
-  "name": "manifest.json sample web app",
+  "short_name": "食事提案アプリ",
+  "name": "食事提案アプリ",
   "display": "fullscreen",
-  "background_color": "#00ec75",
+  "background_color": "#fff",
   "start_url": "index.html?launcher=true",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "Icon.png",
       "type": "image/png",
-      "sizes": "48x48"
+      "sizes": "57x57"
     },
     {
-      "src": "icon@2x.png",
+      "src": "Icon@2x.png",
       "type": "image/png",
-      "sizes": "96x96"
+      "sizes": "114x114"
     },
     {
-      "src": "icon@3x.png",
+      "src": "Icon-60@3x.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "180x180"
     }
   ]
 }
